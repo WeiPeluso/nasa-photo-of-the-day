@@ -1,0 +1,1 @@
+export const URL=' https://api.nasa.gov/planetary/apod?api_key=FfMc5u1tMqsSmuwRlhsbmCrPZNxJvbVrpVpseFqv'
