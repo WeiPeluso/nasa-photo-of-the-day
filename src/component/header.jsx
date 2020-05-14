@@ -1,15 +1,12 @@
-import React from 'react'
-import logo from '../logo/nasa.png'
+import React from 'react';
+import "./header.css";
 
 
 function Header(){
 
     return (
        <div className="header">
-
-        <img alt="logo" src={logo}></img>
-        <p> The Image of the Day</p>
-
+        <h1>NASA's Astronomy Image of the Day</h1>
       </div>
     )
 

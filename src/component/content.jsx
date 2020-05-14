@@ -1,14 +1,16 @@
 import React from 'react'
+import "./content.css";
+
 
 function Content(props){
   
      return (
         <div className='content'>
 
-        <p>Date: {props.date}</p>
-        <p>Explaintion:{props.explanation}</p>
-        <p>Title:{props.title}</p>
-        <p>Image: <img src={props.url}></img></p>
+        <h2>{props.date}</h2>
+        <h3>{props.title}</h3>
+        <p>{props.explanation}</p>
+        <img src={props.url}></img>
 
         </div>
      )
