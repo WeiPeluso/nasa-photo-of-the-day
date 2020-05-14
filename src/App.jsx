@@ -5,6 +5,7 @@ import Header from './component/header'
 import Content from './component/content'
 import axios from 'axios'
 import Calendar from 'react-calendar'
+import PStyle from './component/PStyle'
 
 function App() {
 
@@ -61,7 +62,7 @@ function App() {
        <div className="main-content">
 
       <div className="date">
-        <p>Select the Date</p>
+        <PStyle type='date'>Select the Date</PStyle>
       <Calendar onChange={date=>setDate(date)} value={date} />
       </div>
       <div className="info">

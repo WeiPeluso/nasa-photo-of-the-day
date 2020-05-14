@@ -118,3 +118,77 @@
 [0514/154304.759:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0514/154304.759:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0514/154304.761:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/155804.766:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/155804.767:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/155804.767:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/155804.767:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/155804.767:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/155804.768:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/155804.768:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/155804.768:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/155804.768:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/155804.768:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/160943.664:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0514/160943.667:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0514/160943.669:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0514/160943.671:ERROR:exception_snapshot_win.cc(98)] thread ID 18212 not found in process
+[0514/160943.667:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0514/160943.673:ERROR:exception_snapshot_win.cc(98)] thread ID 18196 not found in process
+[0514/162247.280:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162247.325:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162247.325:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162247.326:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162247.326:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162247.327:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162247.327:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162247.328:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162247.328:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162247.329:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162951.302:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162951.327:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162951.327:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162951.328:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162951.328:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162951.329:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162951.330:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162951.330:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162951.330:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/162951.331:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/164604.555:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/164604.564:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/164604.565:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/164604.565:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/164604.566:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/164604.566:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/164604.567:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/164604.567:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/164604.569:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/164604.570:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.919:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182213.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.166:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.166:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.166:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.166:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.166:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.166:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.166:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.166:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.166:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.182:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.182:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.182:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.182:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0514/182255.182:ERROR:crash_report_database_win.cc(469)] failed to stat report
